@@ -1,0 +1,5 @@
+For finding addresses based on ip addresses :-Ipinfo.io
+
+For finding ip of client :- Using Flask of python with request object --request.remote_addr
+
+For finding near by restaurant :- Using places api of google to find name ,details and Photos of it
